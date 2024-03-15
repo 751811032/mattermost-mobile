@@ -1,10 +1,10 @@
 {
-    "DefaultServerUrl": "https://liaotian111.smaklick.com/",
+    "DefaultServerUrl": "https://mattermost.clubs999.com/",
     "DefaultServerName": "OICQ",
     "TestServerUrl": "http://localhost:8065",
     "AutoSelectServerUrl": true,
 
-    "WebsiteURL": "https://mattermost.com",
+    "WebsiteURL": "https://mattermost.clubs999.com",
     "ServerNoticeURL": "https://github.com/mattermost/mattermost-server/blob/master/NOTICE.txt",
     "MobileNoticeURL": "https://github.com/mattermost/mattermost-mobile/blob/master/NOTICE.txt",
 
