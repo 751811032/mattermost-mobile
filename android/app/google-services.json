@@ -1,29 +1,29 @@
 {
-  "project_info": {
-    "project_number": "173456826564",
-    "project_id": "chat-project-411802",
-    "storage_bucket": "chat-project-411802.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:173456826564:android:ea33086be4c4f51e6da991",
-        "android_client_info": {
-          "package_name": "com.mattermost.rnbeta"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
+    "project_info": {
+        "project_number": "259101651532",
+        "project_id": "oicq-38387",
+        "storage_bucket": "oicq-38387.appspot.com"
+    },
+    "client": [
         {
-          "current_key": "AIzaSyCvc9jATJfQDVfU0hbkh02uWjpKInwwCnQ"
+            "client_info": {
+                "mobilesdk_app_id": "1:259101651532:android:6c000bfcae165c70e1fae9",
+                "android_client_info": {
+                    "package_name": "com.mattermost.rnbeta"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCGB6VhJOzXxS1n1HU5QXccp9hZFzsoc-0"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
         }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
+    ],
+    "configuration_version": "1"
 }
